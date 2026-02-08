@@ -1,48 +1,56 @@
 # Chirag Rathi — Independent Research
 
+---
 
+## Research Focus Areas
+
+Systems-level modeling · Mathematical abstraction · Conceptual and hypothesis-driven research · Preliminary computational exploration
 
 ---
-Research Focus Areas:
-Systems-Level Modeling · Mathematical Abstraction · Conceptual & Hypothesis-Driven Research · Preliminary computational Exploration
 
 ## Overview
 
-This repository records ongoing and archived independent research, including formal outputs and exploratory material.
+This repository serves as a structured record of ongoing and archived independent research.
+It includes formal outputs as well as exploratory material developed during investigation.
 
-It consolidates archived publications, hypotheses, analytical notes, and exploratory models.
+Content consolidated here includes archived publications, hypotheses, analytical notes,
+and early-stage conceptual models.
 
-The objective is clarity, traceability, and methodological rigor — not volume.
+The guiding objective is clarity, traceability, and methodological rigor rather than volume.
 
-All finalized work is archived externally (Zenodo) and indexed via ORCID.  
-This repository focuses on structure, versioning, and transparent development.
+All finalized work is archived externally via Zenodo and indexed through ORCID.
+This repository emphasizes structure, version control, and transparent development.
+
 ---
 
 ## Research Approach
 
-This work follows a first-principles, system-level methodology:
+Work documented here follows a first-principles, system-level methodology.
 
-- These principles are applied across all projects listed below,
-with explicit assumptions, constraints, and failure modes documented.
+All projects adhere to explicitly stated assumptions, constraints,
+and identified failure modes.
 
-> If a claim cannot be tested or constrained, it is treated as incomplete.
-
---
+> Claims that cannot be tested, constrained, or formally analyzed
+> are treated as incomplete.
 
 ---
-### Published & Archived Work
 
-- **The Persistence Criterion:Distinguishing Epistemic Obscuration from OntologicalElimination in Physical Theories**  
-  Zenodo Preprint  
-  DOI:https://doi.org/10.5281/zenodo.18525588
-  Focus: The Persistence Criterion is interpretation-neutral and consistent with quantum no-go theorems, including Bell, Kochen–Specker, and PBR-type results.
-  
+## Published & Archived Work
+
+- **The Persistence Criterion: Distinguishing Epistemic Obscuration from Ontological Elimination in Physical Theories**  
+  *Zenodo preprint*  
+  DOI: https://doi.org/10.5281/zenodo.18525588  
+  Focus: An interpretation-neutral criterion consistent with quantum no-go theorems,
+  including Bell, Kochen–Specker, and PBR-type results.
+
 - **Post-Shell-Crossing Void Re-expansion (PSC-VR): A Research Compendium**  
-  Zenodo Preprint  
+  *Zenodo preprint*  
   DOI: https://doi.org/10.5281/zenodo.18524965  
-  Focus: The compendium presents a self-consistent mathematical formulation based on the Lemaître–Tolman–Bondi (LTB) metric for the single-stream phase.
+  Focus: A self-consistent mathematical formulation based on the
+  Lemaître–Tolman–Bondi (LTB) metric for the single-stream phase.
 
-Additional archived work is indexed via the ORCID record and not mirrored here.https://orcid.org/0009-0008-1682-4369
+Additional archived work is indexed via the ORCID record and is not duplicated here:  
+https://orcid.org/0009-0008-1682-4369
 
 ---
 
@@ -51,11 +59,11 @@ Additional archived work is indexed via the ORCID record and not mirrored here.h
 This section presents exploratory hypotheses and conceptual models developed
 under explicitly stated assumptions.
 
-The models are intended as structured starting points for formal analysis,
-simulation, or critical evaluation, with an emphasis on conceptual coherence
+Models are intended as structured starting points for formal analysis,
+simulation, or critical evaluation, with emphasis on conceptual coherence
 rather than empirical completeness.
 
-Work in this repository follows these guiding standards:
+Work in this repository follows the following standards:
 - Clearly defined scope and assumptions
 - Explicit null hypotheses where applicable
 - Mathematical or logical formulation where feasible
@@ -63,6 +71,7 @@ Work in this repository follows these guiding standards:
 
 Exploratory material is labeled accordingly and is not presented as
 established results or conclusions.
+
 ---
 
 ## Experimental & Analytical Notes
@@ -71,39 +80,40 @@ This section documents exploratory analyses and working models developed
 in the course of ongoing investigation.
 
 Content includes qualitative reasoning, order-of-magnitude estimates,
-and preliminary analytical or computational frameworks intended to test
+and preliminary analytical or computational frameworks used to test
 assumptions and clarify constraints.
 
-Materials may comprise:
+Materials may include:
 - Thought experiments
-- Conceptual designs for simulations
-- Error propagation and uncertainty considerations
+- Conceptual simulation designs
+- Error propagation and uncertainty analysis
 - Identified limitations and unresolved questions
 
-These notes serve as an internal research record, supporting transparency,
+These notes function as an internal research record, supporting transparency,
 critical evaluation, and iterative refinement of ideas.
-
-
-## Methodology Standards
-
-- Definitions precede conclusions  
-- Observation is separated from interpretation  
-- Uncertainty is explicitly documented  
-- Negative results and constraints are preserved  
 
 ---
 
-## Potential extensions subject to validation and feedback
+## Methodology Standards
 
-- Identified theoretical and mathematical gaps  
-- Model refinement and validation pathways  
-- Extension toward computational implementation  
-- Cross-domain synthesis where appropriate  
+- Definitions precede conclusions
+- Observation is separated from interpretation
+- Uncertainty is explicitly documented
+- Negative results and constraints are preserved
 
-l
+---
+
+## Potential Extensions (Subject to Validation)
+
+- Identification of theoretical and mathematical gaps
+- Model refinement and validation pathways
+- Extension toward computational implementation
+- Cross-domain synthesis where appropriate
+
+---
 
 ## Contact & Attribution
 
 **Author:** Chirag Rathi  
 **ORCID:** 0009-0008-1682-4369  
-**Email:** chiragrathiresearcher@gmail.com  
+**Email:** chiragrathiresearcher@gmail.com
